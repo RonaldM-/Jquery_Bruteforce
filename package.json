@@ -1,0 +1,30 @@
+{
+  "name": "jquery_bruteforce",
+  "version": "1.0.0",
+  "description": "script to extract the true password from dico to a website.",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^1.0.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonaldM-/Jquery_Bruteforce.git"
+  },
+  "keywords": [
+    "bruteforce"
+  ],
+  "author": "Ronald MARCEL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RonaldM-/Jquery_Bruteforce/issues"
+  },
+  "homepage": "https://github.com/RonaldM-/Jquery_Bruteforce#readme"
+}
